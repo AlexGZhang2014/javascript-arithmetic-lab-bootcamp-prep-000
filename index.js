@@ -24,6 +24,11 @@ function dec(n) {
   return n;
 }
 
+function makeInt(n) {
+  if (typeof n
+}
+
+
 
 
 
